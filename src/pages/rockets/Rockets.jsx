@@ -74,7 +74,7 @@ const Rockets = () => {
         <Container>
           {!isLoaded ? <div><h1>Loading...</h1></div> :
             <Main>
-              <h1 className="title">Rockets {emoji.getUnicode('rocket')}</h1>
+              <h1 className="title">Rockets / Cohetes {emoji.getUnicode('rocket')}</h1>
               <ul>
                 {items.map(item => (
                   <li key={item.id}>

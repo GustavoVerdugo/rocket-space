@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import * as FaIcons from 'react-icons/fa';
 
 const Container = styled.div`
     display: flex;
@@ -20,7 +21,7 @@ const Logo = styled.text`
 const Footer = () => {
     return (
         <Container>
-            <Logo>Producto de Corelabs</Logo>
+            <Logo>Producto de Corelabs <FaIcons.FaRegCopyright/> 2021</Logo>
         </Container>
     )
 }
