@@ -36,7 +36,7 @@ yarn run test
 * Website: gustavoverdugo.github.io/gverdugo/
 * Twitter: [@MaxyVerdugo](https://twitter.com/MaxyVerdugo)
 * Github: [@GustavoVerdugo](https://github.com/GustavoVerdugo)
-* LinkedIn: [@GustavoVerdugo](https://linkedin.com/in/GustavoVerdugo)
+* LinkedIn: [@GustavoVerdugo](https://linkedin.com/in/gustavo-verdugo-ortiz-37b032168/)
 
 ## Show your support
 
