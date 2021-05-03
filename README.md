@@ -23,12 +23,6 @@ yarn install
 yarn run start
 ```
 
-## Run tests
-
-```sh
-yarn run test
-```
-
 ## Author
 
 👤 **Gustavo Verdugo**
@@ -42,5 +36,6 @@ yarn run test
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
+
+<a href="https://www.buymeacoffee.com/gustavoverdugo"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🚀&slug=gustavoverdugo&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
