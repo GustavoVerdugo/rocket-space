@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Web App to get information about SpaceX, ex: Launches, Missions, Rockets, etc.
+> Web App to get information about SpaceX, ex: Launches, Missions, Rockets, etc. Using the public API https://docs.spacexdata.com/#intro
 
 ## Install
 
@@ -29,7 +29,7 @@ yarn run start
 
 * Website: gustavoverdugo.github.io/gverdugo/
 * Twitter: [@MaxyVerdugo](https://twitter.com/MaxyVerdugo)
-* Github: [@GustavoVerdugo](https://github.com/GustavoVerdugo)
+* Instagram: [@MaxyVerdugo](https://www.instagram.com/maxyverdugo/)
 * LinkedIn: [@GustavoVerdugo](https://linkedin.com/in/gustavo-verdugo-ortiz-37b032168/)
 
 ## Show your support
